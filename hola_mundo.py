@@ -1,6 +1,7 @@
 # Hola Mundo! [Python]
 # ---------------------------
 # Autor: Inove Coding School
+# Rolando Milman
 # Version: 2.0
 
 # Descripcion:
@@ -9,3 +10,4 @@
 
 
 print("Hola Mundo!")
+print("Este es el agregado de texto al programa!")
